@@ -1,0 +1,11 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(255, 246, 161, 0.972);
+}
+
+.footer {
+  background-color: rgb(255, 251, 0);
+}
+section {
+  padding-top: 5rem;
+}
